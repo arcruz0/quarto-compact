@@ -1,0 +1,30 @@
+---
+title: "My Title"
+author: "My Name"
+date: today
+format: compact-pdf
+---
+
+# Intro
+
+Sit ad sollicitudin neque turpis dui turpis rhoncus nisi odio. Pretium velit torquent porta habitant nostra sed. Morbi cum enim nisi facilisis risus sem mi ultrices. Rhoncus potenti consequat magnis sed molestie per dignissim dictumst molestie senectus ultricies.
+
+# Code
+
+Some code:
+
+```{r}
+summary(mtcars$mpg)
+```
+
+
+# Plot
+
+A simple plot:
+
+```{r}
+#| label: fig-example
+#| fig-cap: "Example Figure"
+par(oma = c(0, 0, 0, 0), mar = c(5, 4, 0, 2) + 0.1)
+plot(mtcars$mpg)
+```

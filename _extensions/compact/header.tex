@@ -1,0 +1,12 @@
+\usepackage{fancyhdr}
+\usepackage{titling}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand\maketitle{
+    \fancyhead[C]{
+        \thetitle
+        \ifx \theauthor\empty  \else \ – \theauthor \fi
+        \ifx \thedate\empty  \else \ – \thedate \ \fi
+    }
+}
+\fancyfoot[C]{\thepage}
