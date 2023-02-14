@@ -18,11 +18,13 @@ This will install the extension and create a .qmd file for you to edit.
 
 ## Usage
 
-When creating a Quarto document, simply use the "compact-pdf" format instead of "pdf". All [PDF options](https://quarto.org/docs/reference/formats/pdf.html) should work.
+When creating a Quarto document, simply use the "compact-pdf" format instead of "pdf". All [PDF options](https://quarto.org/docs/reference/formats/pdf.html) should work. For example:
 
 ```yaml
 ---
-...
+title: "My Title"
+author: "My Name"
+date: today
 format: compact-pdf
 ---
 ```
