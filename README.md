@@ -10,7 +10,7 @@ A Quarto format for compact PDF documents. Good for short reports, homework assi
 
 ## Installation and usage
 
-Run the following in a terminal to add the template *to a project* (Quarto extensions cannot be installed globally):
+To add the template *to a project* (Quarto extensions cannot be installed globally):
 
 ```bash
 quarto add arcruz0/quarto-compact
