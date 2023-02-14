@@ -4,7 +4,7 @@ A Quarto format for compact PDF documents. Good for short reports, homework assi
 
 ## Example
 
-![](thumbnail.png | width=100)
+<img src="thumbnail.png" width=50% height=50%>
 
 [[Source code](template.qmd)]
 
