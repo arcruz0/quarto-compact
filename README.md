@@ -4,14 +4,14 @@ A Quarto format for compact PDF documents. Good for short reports, homework assi
 
 ## Example
 
-![thumbnail.png](thumbnail.png)
+![](thumbnail.png | width=100)
 
 [[Source code](template.qmd)]
 
 ## Installation
 
 ```bash
-quarto use template arcruz0/compact
+quarto use template arcruz0/quarto-compact
 ```
 
 This will install the extension and create a .qmd file for you to edit.
