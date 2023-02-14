@@ -17,7 +17,6 @@ Some code:
 summary(mtcars$mpg)
 ```
 
-
 # Plot
 
 A simple plot:
