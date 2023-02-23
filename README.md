@@ -16,7 +16,7 @@ To add the format *to a project* (Quarto extensions cannot be installed globally
 quarto add arcruz0/quarto-compact
 ```
 
-Next, simply use the "compact-pdf" format instead of "pdf" in your Quarto documents. For example:
+Next, simply use the `compact-pdf` format instead of `pdf` in your Quarto documents. For example:
 
 ``` yaml
 ---
