@@ -31,7 +31,7 @@ format: compact-pdf
 
 All [PDF options](https://quarto.org/docs/reference/formats/pdf.html) should work as in the "pdf" format.
 
-To replicate the `quarto-compact` format without installing it, just copy-paste the following into your Quarto document's YAML:
+To replicate the format without installing it, just copy-paste the following into your Quarto document's YAML:
 
 ``` yaml
 format: 
