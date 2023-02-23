@@ -10,7 +10,7 @@ A Quarto format for compact PDF documents. Good for short reports, homework assi
 
 ## Installation and usage
 
-To add the template *to a project* (Quarto extensions cannot be installed globally):
+To add the format *to a project* (Quarto extensions cannot be installed globally):
 
 ```bash
 quarto add arcruz0/quarto-compact
@@ -31,7 +31,7 @@ format: compact-pdf
 
 All [PDF options](https://quarto.org/docs/reference/formats/pdf.html) should work as in the "pdf" format.
 
-To replicate the template without installing it, just copy-paste the following into your Quarto document's YAML:
+To replicate the `quarto-compact` format without installing it, just copy-paste the following into your Quarto document's YAML:
 
 ``` yaml
 format: 
