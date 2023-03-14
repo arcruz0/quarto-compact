@@ -1,6 +1,6 @@
 # compact-pdf Quarto Format
 
-A Quarto format for compact PDF documents. Good for short reports, homework assignments, etc.
+A [Quarto](https://quarto.org/) format for compact PDF documents. Good for short reports, homework assignments, etc.
 
 ## Example
 
