@@ -45,7 +45,7 @@ format:
         - right=.8in
         - bottom=1in
         - left=.8in
-      link-citations: yes
+      link-citations: true
       linkcolor: blue
       include-in-header: 
         text: |
