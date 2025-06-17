@@ -1,6 +1,6 @@
 title: quarto-compact
 author: Andrés Cruz
-version: 0.1.4
+version: 0.1.5
 quarto-required: ">=1.2.0"
 contributes:
   formats:
